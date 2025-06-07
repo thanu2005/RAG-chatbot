@@ -4,7 +4,7 @@ This project is an AI-powered **Retrieval-Augmented Generation (RAG) Chatbot** b
 
 ---
 
-## 🚀 **Features**
+##  **Features**
 
 - 📄 Upload **PDFs, TXT, or CSV** files  
 - 🔍 Document chunking and vector embedding using **OpenAI**  
@@ -15,7 +15,7 @@ This project is an AI-powered **Retrieval-Augmented Generation (RAG) Chatbot** b
 
 ---
 
-## 🛠️ **Tech Stack**
+##  **Tech Stack**
 
 - **Python 3.10+**  
 - **Streamlit** for web UI  
@@ -25,7 +25,7 @@ This project is an AI-powered **Retrieval-Augmented Generation (RAG) Chatbot** b
 
 ---
 
-## 📦 **Setup Instructions**
+##  **Setup Instructions**
 ### 1. **Clone the repository**
 
 ```bash
